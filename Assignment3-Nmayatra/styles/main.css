@@ -24,32 +24,12 @@ label, input, select {
 input[type="submit"] {
 	width: 15.2em;
 	height: 2em;
+	align : right;
 }
 
 input[type="reset"] {
 	width: 15.2em;
-	height: 2em;
-}
-
-
-
-input, select {
-    width: 15em;
-    margin-left: .5em;
-    margin-bottom: .5em;
-}
-input:required, input[required] {
-	border: 3px solid orange;
-}
-input:valid {
-	border: 1px solid black;
-}
-input:invalid {
-	box-shadow: none;
-}
-
-Payment_Method label {
-	
+	height: 2emalign : right;
 	    width: auto;
 	    margin-right: 10px;
 	    margin-left: 50px;
